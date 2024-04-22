@@ -6,6 +6,6 @@ From there, through the remainder, we were able to know what unit the number we 
 Finally, convertidorRomano  is called in the Method along with the number that was entered through the console,
 In addition, a while loop was enclosed and conditioned to 0 to be able to exit the loop.
 
-he have 2 branches develop and main all the changes are currently in develop 
+it have 2 branches develop and main all the changes are currently in develop 
 
 as aprotocol isnide project it used to use develop branch as feature branch
